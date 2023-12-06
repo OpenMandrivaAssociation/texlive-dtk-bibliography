@@ -1,6 +1,6 @@
 Name:		texlive-dtk-bibliography
-Version:	64297
-Release:	2
+Version:	67454
+Release:	1
 Summary:	Bibliography of "Die TeXnische Komodie"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dtk-bibliography
