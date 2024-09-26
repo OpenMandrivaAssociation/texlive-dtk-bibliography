@@ -1,5 +1,5 @@
 Name:		texlive-dtk-bibliography
-Version:	70506
+Version:	72281
 Release:	1
 Summary:	Bibliography of "Die TeXnische Komodie"
 Group:		Publishing
