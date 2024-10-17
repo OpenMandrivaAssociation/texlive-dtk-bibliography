@@ -3,7 +3,7 @@ Version:	72281
 Release:	1
 Summary:	Bibliography of "Die TeXnische Komodie"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dtk-bibliography
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dtk-bibliography
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dtk-bibliography.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dtk-bibliography.doc.r%{version}.tar.xz
